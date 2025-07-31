@@ -1,0 +1,9 @@
+Fecha,Hora,Día,Índice,TipoOperacion,StopLoss,POI,DondeCobre,Lotaje,Resultado,ResultadoTipo,ObsAntes,ImgAntes,ObsDespues,ImgDespues
+2025-07-11,16:19,Viernes,PAINX999,Venta,103359.0,103349.64,103379.2,0.1,-2.96,SL,,,,
+2025-07-11,16:21,Viernes,FLIPX5,Compra,81014.0,81181.0,81014.0,0.01,-1.67,SL,,,,
+2025-07-15,16:23,Martes,PAINX800,Venta,108942.0,108932.88,108926.38,0.1,0.65,Manual,,,,
+2025-07-16,16:26,Miércoles,FLIPX5,Compra,79762.0,80063.0,80125.0,0.01,0.62,Manual,,,,
+2025-07-17,16:28,Jueves,PAINX999,Venta,103920.0,103910.75,103928.91,0.1,-1.82,Manual,,,,
+2025-07-18,16:29,Viernes,FLIPX5,Compra,78137.14,78327.0,78135.0,0.01,-1.92,Manual,,,,
+2025-07-19,16:30,Sábado,PAINX999,Venta,103888.0,103878.03,103877.56,0.1,0.05,Manual,,,,
+2025-07-23,13:06,Miércoles,FLIPX5,Compra,76500.0,76577.0,76619.0,0.01,+0.42,Manual,"Entrada por indicador flipx5, con estrategia de la maquina esperamos que haga su trabajo y vamos a esperar un tp cerca de la Ema20",https://www.mql5.com/en/charts/21172894/flipx-5-m15-systemgates-limited,"Bueno gracias a Dios, se nos dio, cerramos por motivos de seguir analizando su comportamiento y seguir agarrando confianza en este indicador, cerramos y siguió haciendo lo que tenía que hacer rumbo a la ema20. ",https://www.mql5.com/en/charts/21172908/flipx-5-m15-systemgates-limited
